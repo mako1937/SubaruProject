@@ -1,2 +1,2 @@
 # SubaruProject
-Why there is a bias on Subaru drivers.
+Why there is a sexual orientation bias on Subaru drivers.
