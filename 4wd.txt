@@ -21,3 +21,7 @@ dodgy unplowed roads. Many who live in a climate where snow and ice make
 annual appearances opt for a vehicle with 4WD over AWD. A 4×4 vehicle is
 also the tool of choice for serious off-roading, dune wheeling, and towing
 heavy trailers.
+
+Compare to AWD, 4wd may not include steering wheels. For example, on long 
+haul trucks, each truck (tractor) has 3 axles (6 wheels in total). 4wd on 
+trucks only includes 4 drive wheels, not 2 steering wheels.
